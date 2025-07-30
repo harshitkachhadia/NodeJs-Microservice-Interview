@@ -53,7 +53,7 @@ Handles user CRUD operations and retrieves company data from the Company Service
 
 Fields:
 
-- `id` (ObjectId)
+- `id` 
 - `name`
 - `email`
 - `companyId` (Foreign key to Company)
@@ -66,7 +66,7 @@ Handles company CRUD operations.
 
 Fields:
 
-- `id` (ObjectId)
+- `id` 
 - `name`
 - `address`
 
