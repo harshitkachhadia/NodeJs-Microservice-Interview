@@ -10,11 +10,15 @@
    
    ```bash
    cd NodeJs-MicroService-Interview
-3. Install dependencies:
+3. Navigate to each service : 
+   ```bash
+   cd user-service
+   cd company-service
+4. Install dependencies in each service:
    
    ```bash
    npm install
-4. Start the development server:
+5. Start the development server of each service:
    
    ```bash
    npm run dev
